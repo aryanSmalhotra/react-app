@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+my-2ndapp/package-lock.json
+.gitignore
+my-2ndapp/package.json
+my-2ndapp/public/favicon.ico
+my-2ndapp/README.md
+my-2ndapp/public/logo512.png
+my-2ndapp/public/logo192.png
+my-2ndapp/public/robots.txt
+my-2ndapp/public/manifest.json
+my-2ndapp/src/logo.svg

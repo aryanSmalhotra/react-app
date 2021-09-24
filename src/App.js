@@ -15,7 +15,7 @@ function Headers(props){
     <header>
       <h1 style ={{textDecorationColor:"blue"}} >{props.name} Comes To India</h1>
       <h1>Valorant Ignition India 2021</h1>
-      <img src={valorant} height={250} alt ="Valorant is coming to India"/>
+      <img src={valorant} height={275} alt ="Valorant is coming to India"/>
     </header>)
  
 }
